@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
 //Name of the class must be same as filename
-public class GoForwardLROpMode extends OpMode {
+public class GoForwardOpModeLR extends OpMode {
 
   // Declare all the motor variables
   private DcMotor lfMotor; //Left Front
